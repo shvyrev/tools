@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+    <VAST version="4.0">
+        <Ad id="5">
+            <Wrapper>
+                <AdSystem version="2.4">AdSpirit</AdSystem>
+                <VASTAdTagURI>
+                    <![CDATA[https://vast.appgrowth.com/vast/3930?puid1=90&puid2=707&puid3=10&puid4=1&puid5=8&puid6=109&puid7=2&puid8=7&puid9=0&puid10=1&puid11=0&puid12=3&duration=32]]>
+                </VASTAdTagURI>
+                <Extensions>
+                    <AlternativeSource>
+                        <![CDATA[http://rocket10.adspirit.net/advast.php?zbackfill=1&rty=1&bkflwmid=5&bkflsid=0&bkflsid2=0&bkflsid3=0&pid=27&tz=1486395032989459&nvc=1&ord=%5Btimestamp%5D&scx=-1&scy=-1&swf=-1&vis=0&ref=Adspirit-VAST-Wrapper.com&wpcn=asmpvx3943521486395032&sid=0&nrc=1&notdm=1&ex=|4]]>
+                    </AlternativeSource>
+                </Extensions>
+                <Impression>
+                    <![CDATA[http://rocket10.adspirit.net/adview.php?tz=1486395032700543&pid=27&kid=4&wmid=5&nvc=1&target=-]]>
+                </Impression>
+                <Creatives>
+                    <Creative sequence="1">
+                        <Linear>
+                            <TrackingEvents>
+                                <Tracking event="start">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=vb]]>
+                                </Tracking>
+                                <Tracking event="firstQuartile">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=v25]]>
+                                </Tracking>
+                                <Tracking event="midpoint">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=v50]]>
+                                </Tracking>
+                                <Tracking event="thirdQuartile">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=v75]]>
+                                </Tracking>
+                                <Tracking event="complete">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=vc]]>
+                                </Tracking>
+                                <Tracking event="mute">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=am]]>
+                                </Tracking>
+                                <Tracking event="unmute">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=au]]>
+                                </Tracking>
+                                <Tracking event="pause">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=ps]]>
+                                </Tracking>
+                                <Tracking event="rewind">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=rw]]>
+                                </Tracking>
+                                <Tracking event="resume">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=rs]]>
+                                </Tracking>
+                                <Tracking event="fullscreen">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=ex]]>
+                                </Tracking>
+                                <Tracking event="expand">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=ex]]>
+                                </Tracking>
+                                <Tracking event="collapse">
+                                    <![CDATA[http://rocket10.adspirit.net/adactivity.php?tz=1486395032602721&pid=27&kid=4&wmid=5&type=cl]]>
+                                </Tracking>
+                            </TrackingEvents>
+                            <VideoClicks>
+                                <ClickTracking>
+                                    <![CDATA[http://rocket10.adspirit.net/adclick.php?tz=1486395032717550;pid=27;kid=4;wmid=5;wsid=-1;uid=-1;ord=1486395032-]]>
+                                </ClickTracking>
+                            </VideoClicks>
+                            <Extensions>
+                                <AlternativeSource>
+                                    <![CDATA[http://rocket10.adspirit.net/advast.php?zbackfill=1&rty=1&bkflwmid=5&bkflsid=0&bkflsid2=0&bkflsid3=0&pid=27&tz=1486395032989459&nvc=1&ord=%5Btimestamp%5D&scx=-1&scy=-1&swf=-1&vis=0&ref=Adspirit-VAST-Wrapper.com&wpcn=asmpvx3943521486395032&sid=0&nrc=1&notdm=1&ex=|4]]>
+                                </AlternativeSource>
+                            </Extensions>
+                        </Linear>
+                    </Creative>
+                </Creatives>
+            </Wrapper>
+        </Ad>
+    </VAST>
