@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog xsi:schemaLocation="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd"
+    xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <archetypes>
+    <archetype>
+      <groupId>org.qianalyze.sample</groupId>
+      <artifactId>QiAnalyzeModule-archetype</artifactId>
+      <version>0.8.0-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>Sample QiModule used to build the Maven Archetype</description>
+    </archetype>
+    <archetype>
+      <groupId>com.sun.faces</groupId>
+      <artifactId>faces-test-war-archetype</artifactId>
+      <version>0.1-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+    </archetype>
+    <archetype>
+      <groupId>org.apidesign.bck2brwsr</groupId>
+      <artifactId>knockout4j-archetype</artifactId>
+      <version>0.9-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>HTML page with Knockout.js bindings driven by application model
+      written in Java. Use your favorite language to code. Use
+      HTML as a lightweight rendering toolkit. Deploy using JavaFX or 
+      bck2brwsr virtual machine.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.apidesign.bck2brwsr</groupId>
+      <artifactId>bck2brwsr-archetype-html-sample</artifactId>
+      <version>0.8-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>Creates a skeletal HTML page and associated Java controller class.
+      Runs in any browser (even without Java plugin) with the help of Bck2Brwsr
+      virtual machine.</description>
+    </archetype>
+    <archetype>
+      <groupId>net.java.messageapi</groupId>
+      <artifactId>api-archetype</artifactId>
+      <version>2.0-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+    </archetype>
+    <archetype>
+      <groupId>name.arungupta.bukkit</groupId>
+      <artifactId>bukkit-plugin-archetype</artifactId>
+      <version>0.5-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+    </archetype>
+    <archetype>
+      <groupId>org.meruvian.yama.archetypes</groupId>
+      <artifactId>yama-struts-archetype-single</artifactId>
+      <version>1.1.0-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+    </archetype>
+    <archetype>
+      <groupId>org.meruvian.yama.archetypes</groupId>
+      <artifactId>yama-struts-archetype-multi</artifactId>
+      <version>1.1.0-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+    </archetype>
+    <archetype>
+      <groupId>org.meruvian.yama</groupId>
+      <artifactId>yama-starter-archetype</artifactId>
+      <version>2.0.0-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+    </archetype>
+    <archetype>
+      <groupId>com.sun.jersey.archetypes</groupId>
+      <artifactId>jersey-quickstart-grizzly2</artifactId>
+      <version>1.20-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a quickstart Jersey project based on Grizzly2 container.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.sun.jersey.archetypes</groupId>
+      <artifactId>jersey-quickstart-grizzly</artifactId>
+      <version>1.20-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a quickstart Jersey project based on Grizzly container.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.sun.jersey.archetypes</groupId>
+      <artifactId>jersey-quickstart-ejb</artifactId>
+      <version>1.20-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a simple Jersey based EJB project.</description>
+    </archetype>
+    <archetype>
+      <groupId>com.sun.jersey.archetypes</groupId>
+      <artifactId>jersey-quickstart-webapp</artifactId>
+      <version>1.20-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a sample Jersey based Webapp project.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.glassfish.tyrus.archetypes</groupId>
+      <artifactId>tyrus-archetype-echo</artifactId>
+      <version>1.14-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a Tyrus echo application.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.glassfish.tyrus.archetypes</groupId>
+      <artifactId>tyrus-archetype-echo</artifactId>
+      <version>2.0-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a Tyrus echo application.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.glassfish.jersey.archetypes</groupId>
+      <artifactId>jersey-example-java8-webapp</artifactId>
+      <version>3.0-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>Jersey (Java8) WebApp Example Archetype.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.glassfish.jersey.archetypes</groupId>
+      <artifactId>jersey-quickstart-grizzly2</artifactId>
+      <version>3.0-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a quick start Jersey project based on Grizzly container.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.glassfish.jersey.archetypes</groupId>
+      <artifactId>jersey-heroku-webapp</artifactId>
+      <version>3.0-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a quick start Jersey-based web application project capable to run on Heroku.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.glassfish.jersey.archetypes</groupId>
+      <artifactId>jersey-quickstart-webapp</artifactId>
+      <version>3.0-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a quick start Jersey-based web application project.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.glassfish.jersey.archetypes</groupId>
+      <artifactId>jersey-quickstart-webapp</artifactId>
+      <version>2.26-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a quick start Jersey-based web application project.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.glassfish.jersey.archetypes</groupId>
+      <artifactId>jersey-example-java8-webapp</artifactId>
+      <version>2.26-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>Jersey (Java8) WebApp Example Archetype.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.glassfish.jersey.archetypes</groupId>
+      <artifactId>jersey-quickstart-grizzly2</artifactId>
+      <version>2.26-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a quick start Jersey project based on Grizzly container.</description>
+    </archetype>
+    <archetype>
+      <groupId>org.glassfish.jersey.archetypes</groupId>
+      <artifactId>jersey-heroku-webapp</artifactId>
+      <version>2.26-SNAPSHOT</version>
+      <repository>https://maven.java.net/content/repositories/snapshots</repository>
+      <description>An archetype which contains a quick start Jersey-based web application project capable to run on Heroku.</description>
+    </archetype>
+  </archetypes>
+</archetype-catalog>
