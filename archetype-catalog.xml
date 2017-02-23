@@ -68,28 +68,28 @@
     <archetype>
       <groupId>com.sun.jersey.archetypes</groupId>
       <artifactId>jersey-quickstart-grizzly2</artifactId>
-      <version>1.20-SNAPSHOT</version>
+      <version>1.19.3</version>
       <repository>https://maven.java.net/content/repositories/snapshots</repository>
       <description>An archetype which contains a quickstart Jersey project based on Grizzly2 container.</description>
     </archetype>
     <archetype>
       <groupId>com.sun.jersey.archetypes</groupId>
       <artifactId>jersey-quickstart-grizzly</artifactId>
-      <version>1.20-SNAPSHOT</version>
+      <version>1.19.3</version>
       <repository>https://maven.java.net/content/repositories/snapshots</repository>
       <description>An archetype which contains a quickstart Jersey project based on Grizzly container.</description>
     </archetype>
     <archetype>
       <groupId>com.sun.jersey.archetypes</groupId>
       <artifactId>jersey-quickstart-ejb</artifactId>
-      <version>1.20-SNAPSHOT</version>
+      <version>1.19.3</version>
       <repository>https://maven.java.net/content/repositories/snapshots</repository>
       <description>An archetype which contains a simple Jersey based EJB project.</description>
     </archetype>
     <archetype>
       <groupId>com.sun.jersey.archetypes</groupId>
       <artifactId>jersey-quickstart-webapp</artifactId>
-      <version>1.20-SNAPSHOT</version>
+      <version>1.19.3</version>
       <repository>https://maven.java.net/content/repositories/snapshots</repository>
       <description>An archetype which contains a sample Jersey based Webapp project.</description>
     </archetype>
