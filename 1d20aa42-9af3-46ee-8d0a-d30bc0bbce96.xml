@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+    <Ad>
+        <InLine>
+            <AdSystem>WCM</AdSystem>
+            <AdTitle>Test</AdTitle>
+            <Error><![CDATA[http://proctergamble.solution.weborama.fr/fcgi-bin/dispatch.fcgi?a.A=ev&a.si=119&a.te=2021&a.aap=1199&a.agi=92&a.ycp=[ERRORCODE]&a.evn=AdError&g.ra=[CACHEBUSTING]]]></Error>
+            <Impression id="imp1"><![CDATA[https://www.tns-counter.ru/V13a****weborama_ad/ru/UTF-8/tmsec=wstarcompg_119182-1274-1/92630]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:20</Duration>
+                        <TrackingEvents>
+
+                        </TrackingEvents>
+                        <AdParameters><![CDATA[
+                            {
+                                "mediapath": "http://cstatic.weborama.fr/advertiser/119/118/594/1024/",
+                                "mediafiles": [
+                                    {"src":"video.mp4","type":"video/mp4"}
+                                ],
+                                "wcm": {
+                                    "domain": "proctergamble.solution.weborama.fr",
+                                    "account": "119",
+                                    "aap": "1199",
+                                    "tte": "2021"
+                                },
+								"mrcTracker": [
+                                    {"name":"MRC","percent":50,"useFocus":"true","duration":2000},
+                                    {"name":"MRC75Prc","percent":75,"useFocus":"true","duration":5000}
+                                ],
+                                "cp":"us:12|pg:12|co:100|st:0|ss:0"
+                            }
+                        ]]></AdParameters>
+                        <MediaFiles>
+                            <MediaFile maintainAspectRatio="true" scalable="true" delivery="progressive" width="640" height="360" bitrate="256" apiFramework="VPAID" type="application/javascript">
+                                <![CDATA[http://cstatic.weborama.fr/advertiser/119/118/594/1024/vpaid.linear.min.js]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>

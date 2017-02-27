@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast_2.0.1-creativeView.xsd" version="2.0">
+	<Ad id="5VisionsViPlus1887">
+		<InLine>
+			<AdSystem>5Visions</AdSystem>
+			<AdTitle><![CDATA[5Visions Vi+ Ad 1887 2017-01-31 17:05:55]]></AdTitle>
+			<Impression id="NEW"><![CDATA[]]></Impression>
+			<Error><![CDATA[http://stats.5visions.com/v1/stats/track-event?creative=1887&event=1001&platform=0&host=&idfa=&answers=[ERRORCODE]&random=[CACHEBUSTING]]]></Error>
+			<Creatives>
+				<Creative sequence="1">
+					<Linear>
+						<Duration>00:00:20</Duration>
+						<MediaFiles>
+							<MediaFile delivery="progressive" width="640" height="360" type="application/javascript" apiFramework="VPAID">
+								<![CDATA[http://serve.5visions.com/creative/1887/vjs/20ccb10bc80.js]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
