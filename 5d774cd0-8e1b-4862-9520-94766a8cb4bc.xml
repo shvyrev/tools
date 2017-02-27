@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+ <Ad>
+	<InLine>
+	<AdSystem>Advertising Technology Mail.ru Group</AdSystem>
+	<Description/>
+	<Advertiser/>
+	<Pricing/>
+	<Survey/>
+	<Error>
+		<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB1A8Qo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+	</Error>
+	<Impression id="comScore">
+		<![CDATA[http://sb.scorecardresearch.com/p?C1=1&C2=14322255&C3=pr1&C5=09]]>
+	</Impression>
+	<Impression id="TNS-1">
+		<![CDATA[http://www.tns-counter.ru/V13a****gpmd_ad/ru/UTF-8/tmsec=gazprommedia_cid7449737-posid1/833050550]]>
+	</Impression><Impression id="mailru">
+		<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB0Q8Qo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+	</Impression>
+	<Impression id="thirdparty">
+		<![CDATA[http://www.tns-counter.ru/V13a****zenith_ad/ru/UTF-8/tmsec=4512691_10929110-145881779/192458275]]>
+	</Impression>
+	<Creatives>
+		<Creative id="7449737" sequence="" AdID="25273059">
+			<Linear>
+				<AdParameters/>
+				<Duration>00:00:30</Duration>
+				<MediaFiles>
+					<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="963" width="640" height="360" codec="h264">
+						<![CDATA[http://r.mradx.net/img/29/F96F17.mp4]]>
+					</MediaFile>
+				</MediaFiles>
+				<TrackingEvents>
+				  <Tracking event="creativeView">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB0w8Qo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="start">
+						<![CDATA[http://rs.mail.ru/pixel/CmII48WGDBCj3OJbHXMxrFggJCgCoAHxktjwArgBRvoBATCQA_GS2PBi8gI3CEwQ7x4YASABKAQwCDgMQAJIAVABWAFgD-ADAboED2tpbm9maW5kZXIuY2x1YsoEBjEwNjc3OQ.gif]]>
+					</Tracking> 
+					<Tracking event="start">
+					<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB6AcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="start">
+						<![CDATA[http://ad.doubleclick.net/ddm/trackimp/N9747.2131309GPMD/B10929110.145881779;dc_trk_aid=317495560;dc_trk_cid=79027077;ord=192458275;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?]]>
+					</Tracking>
+					<Tracking event="firstQuartile">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB6QcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="midpoint">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB6gcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="thirdQuartile">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB6wcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="complete">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB7AcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="mute">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB7QcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="unmute">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB7gcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="pause">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB7wcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="resume">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB8QcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="fullscreen">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB8gcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="exitFullscreen">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB8wcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+					<Tracking event="close">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB9AcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</Tracking>
+				</TrackingEvents>
+				<VideoClicks>
+					<ClickThrough>
+						<![CDATA[http://r.mail.ru/redir/EmIIl-HodRCj3OJbHXMxrFggJCgCoAHxktjwArgBRvoBATCQA_GS2PBi8gI3CEwQ7x4YASABKAQwCDgMQAJIAVABWAFgD-ADAboED2tpbm9maW5kZXIuY2x1YsoEBjEwNjc3OQ]]>
+					</ClickThrough>
+					<ClickTracking id="event Mail.ru">
+						<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB8AcQo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+					</ClickTracking>
+					<CustomClick/>
+				</VideoClicks>
+			</Linear>
+		</Creative>
+	</Creatives>
+	<Extensions>
+		<Extension type="startTime">
+			00:00
+		</Extension>
+		<Extension type="skipTime">
+			05:00
+		</Extension>
+		<Extension type="skipTime2">
+			00:11
+		</Extension>
+		<Extension type="controls">
+			<![CDATA[1]]>
+		</Extension>
+		<Extension type="skipAd">
+			<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB0A8Qo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]>
+		</Extension>
+		<Extension type="addClick">
+			<![CDATA[http://rs.mail.ru/pixel/CmkI48WGDMABCsgB0g8Qo9ziWx1zMaxYICQoAqAB8ZLY8AK4AUb6AQEwkAPxktjwYvICNwhMEO8eGAEgASgEMAg4DEACSAFQAVgBYA_gAwG6BA9raW5vZmluZGVyLmNsdWLKBAYxMDY3Nzk.gif]]></Extension>
+		<Extension type="linkTxt">
+			<![CDATA[%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8F]]>
+		</Extension>
+		<Extension type="isClickable">
+			<![CDATA[1]]>
+		</Extension>
+		<Extension type="Allowblock">
+			1
+		</Extension><Extension type="rbcompanion">
+			<![CDATA[None]]>
+		</Extension>
+	</Extensions>
+</InLine>
+ </Ad>
+</VAST>
