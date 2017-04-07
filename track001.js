@@ -89,7 +89,7 @@ function getCookie(name) {
     }
 
     var xhr = new XMLHttpRequest();
-    xhr.open("POST", "http://localhost:8080/track", true);
+    xhr.open("POST", "https://www.lavitanuovo.com/track", true);
     xhr.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
 
     console.log("user data:" + JSON.stringify(userData));
